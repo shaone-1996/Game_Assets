@@ -1,0 +1,19 @@
+newmtl Solid
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+
+newmtl Mia_005094_64kMesh
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd Mia_005094_64kMesh.jpg
+map_Bump Mia_005094_64kMesh_normal.jpg
+map_ao Mia_005094_64kMesh_occlusion.jpg
+
